@@ -1,15 +1,14 @@
-# Hello there, little one.
+# Hey there!
 
-<p align = center>
-________
-</p>
+Name's Ayimany. I'm a 16 year old computer enthusiast from Mexico :>  
 
+Considerably new at this so I'm hoping to make great things soon!  
 
-Name's Ayimany, I'm a 16 year old computer enthusiast from Mexico :>  
+Contact info & More listed at the bottom. Merry christmas btw  
 
-Considerably new at this so I'm hoping to make great things soon!
+## About me, around computers
 
-### Main interests (in the field) include:
+### Main interests
 * Compiler design
 * ICs, Robotics and automation
 * Game Development
@@ -17,22 +16,23 @@ Considerably new at this so I'm hoping to make great things soon!
 * Linux
 * Seeing how far I can take this machine without it dying (Computability theory, I guess)
 
-### Main interests (outside the field) include:
+### Projects (Ordered by priority)
+* Arsenal: A Minecraft weapon mod (Top priority because it is the quickest).
+* Preclib: A library to perform precise operations with time, space, etc.
+* Noxlang: A statically typed, dangerous but powerful programming language.
+* Undergraven: A really god darn ambitious game idea, although I've postopned this one for now.
+
+## About me, more generally
+
+### Main interests
 * Cooking
 * Horror games
 * Pixel Art
 * Chemistry
 * Mechanics
-* Red & Black pens
-* Small Objects  
+* Cats
 
-
-#### Cat facts:
-* Cats can't taste sweet stuff
-* Cats have a better peripheral vision than you and I
-* Cats are approximating your location
-* Cats are behind you
-
-<p align = center>
-________
-</p>
+### Contact
+* Discord: ayimany#9820
+* Instagram: ayimany
+* Mail: ayimany.con@gmail.com
