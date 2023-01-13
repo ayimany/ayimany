@@ -1,10 +1,8 @@
 # Hey there!
 
-Name's Ayimany. I'm a 16 year old computer enthusiast from Mexico :>  
+Name's Ayimany. I'm a 17 year old computer enthusiast from Mexico :>  
 
 Considerably new at this so I'm hoping to make great things soon!  
-
-Contact info & More listed at the bottom. Merry christmas btw  
 
 ## About me, around computers
 
