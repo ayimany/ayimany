@@ -14,8 +14,8 @@ Considerably new at this so I'm hoping to make great things soon!
 * Linux
 * Seeing how far I can take this machine without it dying (Computability theory, I guess)
 
-### Projects (Ordered by priority)
-* Arsenal: A Minecraft weapon mod (Top priority because it is the quickest).
+### Projects
+* FRC Season 2023 - Charged Up
 * Preclib: A library to perform precise operations with time, space, etc.
 * Noxlang: A statically typed, dangerous but powerful programming language.
 * Undergraven: A really god darn ambitious game idea, although I've postopned this one for now.
