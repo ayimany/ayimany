@@ -1,5 +1,5 @@
 # About me
-A young computer enthusiast which also happens to love cats
+A young computer enthusiast who also happens to love cats
 
 ## When it comes to computers...
 
