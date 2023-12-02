@@ -1,15 +1,31 @@
 # About me
 A young computer enthusiast who also happens to love cats
+Began coding on April 2021
 
-## When it comes to computers...
-
-### Main interests
+## Main interests regarding computers
 * Compiler design
 * ICs, Robotics and automation
 * Game Development
 * Servers and Backend development
 * Linux
 * Seeing how far I can take this machine without it dying (Computability theory, I guess)
+
+## Technologies
+
+### Languages
+* Java
+* Kotlin
+* C
+* C++
+* Python
+* Shell
+* Fish
+
+#### Want to learn
+* Rust (On the road to!)
+* Haskell
+* R
+* Zig
 
 ## About me, more generally
 
@@ -24,4 +40,4 @@ A young computer enthusiast who also happens to love cats
 ### Contact
 * Discord: ayimanymooncat
 * Instagram: ayimany
-* Mail: contact.ayimanymooncat@proton.me
+* Mail: ayimany@proton.me
