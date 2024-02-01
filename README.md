@@ -1,6 +1,8 @@
 # About me
-A young computer enthusiast who also happens to love cats
-Began coding on April 2021
+A young computer enthusiast who also happens to love cats  
+Began coding on April 2021  
+
+Owner of MooncatCorps
 
 ## Main interests regarding computers
 * Compiler design
@@ -16,7 +18,7 @@ Began coding on April 2021
 * Java
 * Kotlin
 * C
-* C++
+* C++ (Fav)
 * Python
 * Shell
 * Fish
