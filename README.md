@@ -1,10 +1,9 @@
 # About me
 A young computer enthusiast who also happens to love cats  
-Began coding on April 2021  
+Began coding around April 2021  
+MooncatCorps' Lead
 
-Owner of MooncatCorps
-
-## Main interests regarding computers
+## Main interests
 * Compiler design
 * ICs, Robotics and automation
 * Game Development
@@ -12,28 +11,11 @@ Owner of MooncatCorps
 * Linux
 * Seeing how far I can take this machine without it dying (Computability theory, I guess)
 
-## Technologies
-
-### Languages
-* Java
-* Kotlin
-* C
-* C++ (Fav)
-* Python
-* Shell
-* Fish
-
-#### Want to learn
-* Rust (On the road to!)
-* Haskell
-* R
-* Zig
-
 ## About me, more generally
 
 ### Main interests
 * Cooking
-* Horror games
+* Horror
 * Pixel Art
 * Chemistry
 * Mechanical Engineering
@@ -42,4 +24,4 @@ Owner of MooncatCorps
 ### Contact
 * Discord: ayimanymooncat
 * Instagram: ayimany
-* Mail: ayimany@proton.me
+* Business Mail: ayimanymooncat@proton.me
