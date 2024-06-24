@@ -1,6 +1,6 @@
 # About me
 A young computer enthusiast who also happens to love cats  
-Began coding around April 2021  
+Began coding around April 2020  
 MooncatCorps' Lead
 
 ## Main interests
@@ -24,4 +24,4 @@ MooncatCorps' Lead
 ### Contact
 * Discord: ayimanymooncat
 * Instagram: ayimany
-* Business Mail: ayimanymooncat@proton.me
+* Business Mail: mooncatayimany@proton.me
