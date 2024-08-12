@@ -3,7 +3,7 @@ You can call me **Ayimany** although my full alias is *Ayimany Mooncat*.
 
 Young computer scientist, engineer & enthusiast.
 
-## Developent Interests
+## Development Interests
 I, originally, began coding to mod videogames and solve tedious tasks.
 However, this has evolved into a much more important aspect of my life.
 
