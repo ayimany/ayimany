@@ -1,6 +1,4 @@
-# Hey :3
-You can call me **Ayimany** although my full alias is *Ayimany Mooncat*.
-
+# Hey
 Young computer scientist, engineer & enthusiast.
 
 ## Development Interests
@@ -21,7 +19,7 @@ As such, I actively seek opportunities to develop projects.
 - Participated in the FIRST Tech Chalenge for 1 year1
 - Actively mentoring FRC teams
 - Actively mentoring FTC teams
-- Owner of [Wither Laboratories](https://github.com/WitherLabs). It's mission lay on its page.
+- Owner of the [Abstract Standardization Project](https://github.com/AbstractStandardizationProject). It's mission lay on its page.
 - Began my first bachelor's in Robotics Engineering in 2024
 
 ## Tech Stack & Tooling
