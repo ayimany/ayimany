@@ -25,6 +25,6 @@ You can learn more about me on my:
 - [Instragram](https://www.instagram.com/ayimany/)
 
 You can contact me via:
-- [E-Mail](mailto:ayimany@proton.me)
+- [E-Mail](mailto:contact.ayimany@proton.me)
 
 <sup>1. I actually really dislike LinkedIn: most people feel like a depressing soulless robot. Sadly, it has a monopoly on professional networking which I hope to change some day.</sup>
